@@ -12,9 +12,11 @@ Registration Data
 Add 
 ![6](https://user-images.githubusercontent.com/85708102/148804594-8f150208-3f3e-4e0d-b2c9-7f9b0149ba79.jpg)
 Settings
-![7 7](https://user-images.githubusercontent.com/85708102/148804614-93a162c9-9492-4aff-9752-87a93f8c419a.jpg)
-Edit Profile
+
 ![7](https://user-images.githubusercontent.com/85708102/148804644-8fd517c2-1cea-43a5-8397-e53d5be6f945.jpg)
+
+Edit Profile
+![7 7](https://user-images.githubusercontent.com/85708102/148804614-93a162c9-9492-4aff-9752-87a93f8c419a.jpg)
 My Ads
 ![8](https://user-images.githubusercontent.com/85708102/148804655-0695f192-3b5c-4fcb-9934-786b776ec746.jpg)
 Edit Add
